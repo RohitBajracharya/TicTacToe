@@ -18,6 +18,7 @@ public class TicTacToe implements ActionListener{
 	JMenuItem exitGame=new JMenuItem();
 	boolean player1_turn;
 	
+	
 	TicTacToe() {
 		frame.setDefaultCloseOperation(JFrame.EXIT_ON_CLOSE);
 		frame.setSize(800,800);
